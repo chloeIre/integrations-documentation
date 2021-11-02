@@ -28,7 +28,7 @@ To create code blocks, indent every line of the block by at least four spaces or
 
 To add an image, add an exclamation mark (!), followed by alt text in brackets, and the path or URL to the image asset in parentheses.
 
-![Example image!](/images/san-juan-mountains.jpg)
+![Weld logo](https://assets.website-files.com/60d32f4957981a7d6352b27a/60db0143e48f84047ab69040_Weld%20-%20Logo%20-%20Black%201.svg)
 
 ### Headline 3
 
