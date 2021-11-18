@@ -2,7 +2,7 @@
 
 This is an example of weld markdown documentation in [Repository](https://github.com/WeldHQ/integrations-documentation).
 
-## Seccondary headline
+## Secondary headline
 
 Don't put tabs or spaces in front of your paragraphs.  
 To create a line break (<br>), end a line with two or more spaces, and then type return.  
